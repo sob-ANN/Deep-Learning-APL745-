@@ -14,6 +14,6 @@ We use logistic Regression as our hypothesis function and Binary Cross Entropy l
 ## [Multi-Class Classification](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/OnevRest%20Classification.ipynb)
 Multiclass Classification of MNIST Dataset from scratch. Optimization is done using Scipy Library. Binary Cross Entropy is the loss function used with Logistic Sigmoid as our hypothesis function. Target labels are one-hot encoded to be able to perform matrix operations.
 
-## [Softmax Multi-Class Classification] (https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/Softmax%20Classification.ipynb)
+## [Softmax Multi-Class Classification](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/Softmax%20Classification.ipynb)
 Multi-class Classification using softmax on the MNIST Fashion Dataset from scratch. Optimized using Batch Gradient Descent. Also, the accuracy is compared with the One-vs-Rest case.
 
