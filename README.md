@@ -22,3 +22,6 @@ Physics Informed Neural Networks are a type of Universal Function Approximators 
 
 ## [Inverse Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/PINN_bar_inverse_main.ipynb)
 In this example, we have solved an inverse problem of the same bar taken above. In this case, the deflections are known at each point on the bar. However, we do not know the physical properties of the bar(Axial Stiffness). Following similar principles as above, we have solved for EA(Axial Stiffness).
+
+## [2D PINN](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/2D%20PINN%20Project.ipynb)
+Solution of a 2-Dimentional Elastic Deformation problem using Physics-Informed-Neural-Network. The solution is obtained by minimising the 'residue' of the governing Partial Differential Equations while also respecting the Direchlet Boundary Conditions. Further, a number of test body forces are used in order to see the different responses.
