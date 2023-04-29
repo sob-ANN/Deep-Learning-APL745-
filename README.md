@@ -34,3 +34,5 @@ In this example, we have solved an inverse problem of the same bar taken above. 
 Solution of a 2-Dimentional Elastic Deformation problem using Physics-Informed-Neural-Network. The solution is obtained by minimising the 'residue' of the governing Partial Differential Equations while also respecting the Direchlet Boundary Conditions. Further, a number of test body forces are used in order to see the different responses.
 ## [Deep-O-Net](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/Deep_o_net_Final.ipynb)
 Here we dive into Operator Learning. Deep-O-Net has been implemented using Pytorch. Data is generated in the same way as was done in the paper(https://arxiv.org/abs/1910.03193) for the Antiderivative operator.
+## [Fourier Neural Operator](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/Fourier%20Neural%20operator.ipynb)
+Applying a Fourier Neural Operator on 1d Burgers' Equation as discussed in the paper (https://scholar.google.com/scholar_lookup?arxiv_id=2010.08895)
